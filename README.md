@@ -12,7 +12,6 @@ Useful for situations where traditional file sharing doesn't work well, especial
 ✅ Upload and download files via a web browser  
 ✅ Automatic file storage in the `/shared` directory  
 ✅ Real-time file list display  
-✅ Minimal "hacker-style" UI  
 ✅ Accessible from other devices in the same network  
 
 ---
